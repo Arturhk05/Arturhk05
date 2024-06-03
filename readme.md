@@ -4,8 +4,6 @@
 
 ### I'm Artur Krauspenhar
 
-- 🤓 &nbsp; 18y becoming a developer
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at University of Brasilia - UnB, Federal District , Brazil.
 - 🌱 &nbsp; I’m currently learning **NodeJs** and **Databases**
 - 👀 &nbsp; Open for project collaboration and internship opportunities. 
@@ -13,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Github | Postman API
 
