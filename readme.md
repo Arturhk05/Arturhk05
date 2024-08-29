@@ -3,13 +3,12 @@
 ### I'm Artur Krauspenhar
 
 - 🎓 &nbsp; Studying Software Engineering at University of Brasilia - UnB, Federal District , Brazil.
-- 🌱 &nbsp; I’m currently learning **NodeJs** and **Databases**
-- 👀 &nbsp; Open for project collaboration and internship opportunities. 
+- 🌱 &nbsp; I’m currently learning **Java**
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript 
-- 🌐 &nbsp; HTML | CSS | Node.js | ReactJS
+- 💻 &nbsp; Javascript | Python | Java
+- 🌐 &nbsp; HTML | CSS | Node.js | Flask
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Github | Postman API
 
