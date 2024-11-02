@@ -12,7 +12,7 @@
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Github | Postman API | Docker
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical) -->
+![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)
 
 ### 📫🤝🏻 Connect with Me
 
