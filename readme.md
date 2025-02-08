@@ -3,7 +3,6 @@
 ### I'm Artur Krauspenhar
 
 - 🎓 &nbsp; Studying Software Engineering at University of Brasilia - UnB, Federal District , Brazil.
-- 🌱 &nbsp; I’m currently learning **Java**
 
 <h3>🛠 Tech Stack</h3>
 
