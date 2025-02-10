@@ -6,10 +6,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | Java
-- 🌐 &nbsp; HTML | CSS | Node.js | Flask
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSql
-- 🔧 &nbsp; Git | Github | Postman API | Docker
+- 💻 &nbsp; Javascript | Python | Java | C
+- 🌐 &nbsp; HTML | CSS | Node.js | React | Flask
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSql | Oracle
+- 🔧 &nbsp; Git | Github | Docker | Scrum
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)
 
