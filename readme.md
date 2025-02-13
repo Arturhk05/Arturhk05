@@ -9,7 +9,7 @@
 - 💻 &nbsp; TypeScript | Javascript | Python | Java | C
 - 🌐 &nbsp; HTML | CSS | Node.js | React | Flask
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql | Oracle
-- 🔧 &nbsp; Git | Github | Docker | Scrum
+- 🔧 &nbsp; Git | Github | Docker | Github Actions | Scrum
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)
 
