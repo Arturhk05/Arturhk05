@@ -6,7 +6,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | Python | Java | C 
+- 💻 &nbsp; TypeScript
 - 🌐 &nbsp; HTML | CSS | Node.js | React | Nextjs | NestJs
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Github | Docker | Github Actions | Scrum
