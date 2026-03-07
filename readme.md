@@ -1,17 +1,15 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">
 
-### I'm Artur Handow Krauspenhar
+### I'm Artur H. Krauspenhar
 
 - 🎓 &nbsp; Studying Software Engineering at University of Brasilia - UnB, Federal District , Brazil.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | Python
+- 💻 &nbsp; TypeScript | Go | Python
 - 🌐 &nbsp; HTML | CSS | Node.js | React | Nextjs | NestJs
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
-- 🔧 &nbsp; Git | Github | Docker | Github Actions | Scrum
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)
+- 🔧 &nbsp; Git | Github | Docker | Github Actions
 
 ### 📫🤝🏻 Connect with Me
 
