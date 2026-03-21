@@ -11,6 +11,8 @@
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Github | Docker | Github Actions
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)
+
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/arturkraus/) 👨🏻‍💻
