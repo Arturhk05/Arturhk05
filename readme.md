@@ -7,7 +7,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; TypeScript | Go | Python
-- 🌐 &nbsp; HTML | CSS | Node.js | React | Nextjs | NestJs
+- 🌐 &nbsp; HTML | CSS | Node.js | React | NestJs
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Github | Docker | Github Actions
 
