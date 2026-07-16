@@ -7,11 +7,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; TypeScript | Go | Python
-- 🌐 &nbsp; HTML | CSS | Node.js | React | NestJs
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSql
+- 🌐 &nbsp; HTML | CSS | Node.js | React | NestJs | FastAPI
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSql | DB2
 - 🔧 &nbsp; Git | Github | Docker | Github Actions
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Arturhk05&show_icons=true&theme=radical)-->
 
 ### 📫🤝🏻 Connect with Me
 
